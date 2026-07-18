@@ -37,6 +37,12 @@ header p{
 color:#bbb;
 
 }
+.logo{
+width:180px;
+max-width:80%;
+display:block;
+margin:20px auto;
+}
 
 .card{
 
