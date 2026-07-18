@@ -38,9 +38,15 @@ color:#bbb;
 
 }
 .logo{
-width:180px;
-max-width:80%;
+    
+width:140px;
+
+height:140px;
+
+border-radius:20px;
+
 display:block;
+
 margin:20px auto;
 }
 
